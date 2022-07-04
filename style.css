@@ -1,0 +1,40 @@
+body {
+    background: #ECDCCA;
+}
+h1, p {
+    text-align: center;
+    color: #242331;
+    
+}
+
+p, ul {
+    display: block;
+    max-width: 800px;
+    margin: 0 auto;
+}
+ul {
+    margin-top: 20px;
+    color: #242331;
+}
+ footer {
+    text-align: center;
+    margin: 20px;
+ }
+
+ footer a {
+color:#533E2D;
+text-decoration: none;
+margin: 10px;
+ }
+
+.croissant-photo {
+    max-width: 600px;
+    border-radius: 10px;
+    display: block;
+    margin: 30px auto;
+}
+.email-link {
+    font-weight: 800;
+    text-decoration: none;
+    color: #242331;
+}
